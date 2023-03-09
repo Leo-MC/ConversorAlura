@@ -1,9 +1,15 @@
 #Conversor de Monedas y Temperatura 
+
 ##Introduccion
+
 Este proyecto es la realizacion de un challenge del programa ORACLE ONE, para la realizacion del proyecto se utilizo la clase *JOptionPane* de la biblioteca Javax
+
 ## Descripcion del proyecto 
+
 El programa puede convertir la moneda predeterminada(en este caso el sol peruano) a dolares, euros, pesos y más, tambien tenemos la conversion de temperaturas, en la cual se puede escoger la temperatura que uno tiene al incio y luego escoger la temperatura a la desea hacer la conversion.
+
 ##Demostracion de funciones
+
 Primero se no abre el menú principal que nos pregunta por el conversor qeu deseamos usar si el de monedas o temperaturas.
 
 [![](https://github.com/Leo-MC/ConversorAlura/blob/main/Conversor/img/menu%20principal.png?raw=true)](https://github.com/Leo-MC/ConversorAlura/blob/main/Conversor/img/menu%20principal.png?raw=true)
