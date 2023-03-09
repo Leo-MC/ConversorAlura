@@ -33,7 +33,7 @@ public class Principal {
 					}
 					break;
 				}				
-				int continuar = JOptionPane.showConfirmDialog(null, "¿Desea otra conversion?");
+				int continuar = JOptionPane.showConfirmDialog(null, "¿Desea realizar otra conversion?");
 				if (continuar == 0) {
 					continue;
 				}else {
@@ -56,7 +56,7 @@ public class Principal {
 					}
 					break;
 				}
-				continuar = JOptionPane.showConfirmDialog(null, "¿Desea otra conversion?");
+				continuar = JOptionPane.showConfirmDialog(null, "¿Desea realizar otra conversion?");
 				if (continuar == 0) {
 					continue;
 				}else {
