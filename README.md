@@ -30,7 +30,7 @@ Finalmente luego de escoger tendriamos el resultado
 
 [![](https://github.com/Leo-MC/ConversorAlura/blob/main/Conversor/img/resultado.png?raw=true)](https://github.com/Leo-MC/ConversorAlura/blob/main/Conversor/img/resultado.png?raw=true)
 
-Como ultima opcion el programa no ¿s pregunta si queremos realizar otra conversion, si damos en si, nos regresa el menú principal de lo contrrario finalizaria el programa
+Como ultima opcion el programa nos pregunta si queremos realizar otra conversion, si damos en si, nos regresa el menú principal de lo contrrario finalizaria el programa
 
 [![](https://github.com/Leo-MC/ConversorAlura/blob/main/Conversor/img/desea%20otra%20conversion.png?raw=true)](https://github.com/Leo-MC/ConversorAlura/blob/main/Conversor/img/desea%20otra%20conversion.png?raw=true)[![](https://github.com/Leo-MC/ConversorAlura/blob/main/Conversor/img/programa%20finalizado%20.png?raw=true)](https://github.com/Leo-MC/ConversorAlura/blob/main/Conversor/img/programa%20finalizado%20.png?raw=true)
 
